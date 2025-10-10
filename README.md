@@ -18,3 +18,6 @@ Analyser les données d’un magazine en ligne afin d’optimiser sa **stratégi
 - Identification des **pics d’engagement**  
 - Analyse des **facteurs de performance**  
 - Recommandations pour **améliorer la portée et l’efficacité des publications**
+
+ [Voir le projet]
+
