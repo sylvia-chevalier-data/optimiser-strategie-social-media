@@ -21,7 +21,7 @@ Analyser les données d’un magazine en ligne afin d’optimiser sa **stratégi
 
  [Voir le projet](https://github.com/sylvia-chevalier-data/social-media/blob/main/Sylvia_Chevalier_document%20de%20spécification_juillet_2025.pdf)
  
- [Voir les diapositives](https://github.com/sylvia-chevalier-data/social-media/blob/main/Diapos%20projet%202%20SQL%20version%20finale.pptx)
+ [Voir les diapositives](https://github.com/sylvia-chevalier-data/optimiser-strategie-social-media/blob/main/Diapos%20projet%202%20SQL.pptx)
 
 ## 🙏 Remerciements
 Merci à mon **mentor OpenClassrooms Michel Perez** pour son accompagnement et ses conseils tout au long du projet.
