@@ -22,4 +22,4 @@ Analyser les données d’un magazine en ligne afin d’optimiser sa **stratégi
  [Voir les diapositives](https://github.com/sylvia-chevalier-data/optimiser-strategie-social-media/blob/main/Diapos%20projet%20social%20media%20SQL.pdf)
 
 ## 🙏 Remerciements
-Merci à mon **mentor OpenClassrooms Michel Perez** pour son accompagnement et ses conseils tout au long du projet.
+Merci à mon **mentor OpenClassrooms Michel Pérez** pour son accompagnement et ses conseils tout au long du projet.
