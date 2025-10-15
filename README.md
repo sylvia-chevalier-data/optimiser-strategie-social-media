@@ -18,8 +18,6 @@ Analyser les données d’un magazine en ligne afin d’optimiser sa **stratégi
 - Identification des **pics d’engagement**  
 - Analyse des **facteurs de performance**  
 - Recommandations pour **améliorer la portée et l’efficacité des publications**
-
- [Voir le projet](https://github.com/sylvia-chevalier-data/social-media/blob/main/Sylvia_Chevalier_document%20de%20spécification_juillet_2025.pdf)
  
  [Voir les diapositives](https://github.com/sylvia-chevalier-data/optimiser-strategie-social-media/blob/main/Diapos%20projet%20social%20media%20SQL.pdf)
 
